@@ -9,10 +9,3 @@ class Car implements Drivable {
         System.out.println("Driving a car");
     }
 }
-    class Main {
-        public static void main(String[] args) {
-            Drivable myVehicle = new Car();
-            myVehicle.drive();
-        }
-
-    }
