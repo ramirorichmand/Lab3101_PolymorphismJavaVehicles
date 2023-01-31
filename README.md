@@ -10,6 +10,6 @@
 
 5. Implemented at least 1 method overload
 
-6: Defined an abstract method in the super-class and implement it in each of the sub-classes
+6. Defined an abstract method in the super-class and implement it in each of the sub-classes
 
-7 Created an interface and implemented it on at least 1 class
+7. Created an interface and implemented it on at least 1 class
