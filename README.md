@@ -1,8 +1,6 @@
 # Lab3101_PolymorphismJavaVehicles
 
-1. New project, with multiple classes
-
-UML to plan concept.
+1. New project, with multiple classes (UML to plan concept)
 
 2. Abstract class
 
